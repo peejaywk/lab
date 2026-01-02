@@ -1,0 +1,7 @@
+[tools]
+age = "latest"
+helm = "latest"
+sops = "latest"
+
+[env]
+KUBECONFIG = "/workspaces/lab/kubeconfig"
